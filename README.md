@@ -57,7 +57,6 @@ Tenho forte interesse em Power BI e segurança cibernética na nuvem, buscando c
 ## Projetos até o momento:
 
 ### Geo Senai
-**Jan 2024 - Jun 2024:** 
 Eu e meus colegas desenvolvemos um totem de autoatendimento que visa facilitar como os alunos novos e veteranos se localizam na escola SENAI Antônio Adolpho Lobbe em São Carlos, São Paulo, utilizando tecnologias como React Native, Java, Spring, GitHub e Azure. Com a ajuda do Geo Senai, os alunos podem encontrar turmas novas, além de novas vagas de emprego, contando com um mapa da escola SENAI com todas as salas.
 
 ### Cálculo Novaes
@@ -67,7 +66,6 @@ Eu e a minha equipe de aprendizes da empresa Novaes Engenharia desenvolvemos um 
 Mantenha suas tarefas em ordem e seus compromissos bem organizados com o JotNest. Nossa aplicação oferece telas dedicadas para cada aspecto da sua vida, permitindo que você registre e gerencie todos os seus compromissos de forma prática e eficiente. Precisa organizar suas visitas a restaurantes, lanchonetes ou pizzarias? Sem problemas! Com o JotNest, você tem uma tela exclusiva para registrar todos os detalhes dos seus compromissos em cada tipo de local. Quer seja para compromissos profissionais, eventos sociais ou atividades de lazer, cada tarefa e compromisso tem seu próprio espaço dedicado. Nossa interface intuitiva facilita a organização, garantindo que você nunca perca um compromisso importante. Experimente o JotNest e descubra como é fácil manter tudo em ordem e à mão!
 
 ### Dasboard Empresarial 
-**Jun2024 - Jul 2024:** 
 Dasboard desenvolvi um dashboard empresarial utilizando Power BI, com foco em vendas e desempenho operacional. O painel de vendas monitora o desempenho de vendas e receitas, enquanto o painel de desempenho operacional exibe KPIs chave, como eficiência de processos e satisfação do cliente. O objetivo é fornecer insights estratégicos para melhorar a tomada de decisão e aumentar a eficiência operacional, promovendo uma cultura de dados na empresa.
 
 
