@@ -50,6 +50,7 @@ Tenho forte interesse em Power BI e segurança cibernética na nuvem, buscando c
 - 🌐 **HTML**
 - 🎨 **CSS**
 - ☁️ **Azure**
+- 🚀 **Vercel**
 - 🗃️ **SQL Workbench**
 
 ---
